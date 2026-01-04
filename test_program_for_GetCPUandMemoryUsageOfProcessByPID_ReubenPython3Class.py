@@ -5,9 +5,9 @@ Reuben Brewer, Ph.D.
 reuben.brewer@gmail.com
 www.reubotics.com
 
-Software Revision A, 07/15/2025
+Software Revision B, 12/22/2025
 
-Verified working on: Python 3.11/3.12 for Windows 10, 11 64-bit.
+Verified working on: Python 3.11/12/13 for Windows 10, 11 64-bit.
 '''
 
 __author__ = 'reuben.brewer'
@@ -18,7 +18,7 @@ __author__ = 'reuben.brewer'
 #######################################################################################################################
 
 ##########################################################################################################
-from GetCPUandMemoryUsageOfProcessByPID_ReubenPython3Class import *
+from GetCPUandMemoryUsageOfProcessByPID_ReubenPython3Class import GetCPUandMemoryUsageOfProcessByPID_ReubenPython3Class
 ##########################################################################################################
 
 ##########################################################################################################
