@@ -12,11 +12,11 @@ www.reubotics.com
 
 Apache 2 License
 
-Software Revision A, 07/15/2025
+Software Revision B, 12/22/2025
 
 Verified working on:
 
-Python 3.11/3.12.
+Python 3.11/12/13.
 
 Windows 10, 11 64-bit
 
